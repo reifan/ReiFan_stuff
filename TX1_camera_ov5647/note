@@ -1,0 +1,3 @@
+To porting Rapsberry Pi camera (v1.3, ov5647)
+We should modify devicetree to correctly register
+related hw node.
